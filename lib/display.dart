@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:geolocator/geolocator.dart';
 import 'package:http/http.dart';
 import 'package:intl/intl.dart';
-const key='69a2747d3b61fab6d4663dda62244004';
+const key='//use your own key';
 class display extends StatefulWidget {
   display({this.alldata});
   final alldata;
